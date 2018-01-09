@@ -1,0 +1,66 @@
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\ApplicationInsights.config
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\roslyn\csc.exe
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\roslyn\vbc.exe
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\roslyn\VBCSCompiler.exe
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\DeneyBilim.dll.config
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\DeneyBilim.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\DeneyBilim.pdb
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.AI.Web.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.AI.Web.xml
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\obj\Debug\DeneyBilim.csprojResolveAssemblyReference.cache
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\obj\Debug\DeneyBilim.dll
+C:\Users\merttokama\Desktop\DeneyBilim\DeneyBilim\obj\Debug\DeneyBilim.pdb
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\ApplicationInsights.config
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\roslyn\csc.exe
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\roslyn\vbc.exe
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\roslyn\VBCSCompiler.exe
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\DeneyBilim.dll.config
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\DeneyBilim.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\DeneyBilim.pdb
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.AI.Web.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.AI.Web.xml
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\obj\Debug\DeneyBilim.csprojResolveAssemblyReference.cache
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\obj\Debug\DeneyBilim.dll
+C:\Users\gülistan\Downloads\DeneyBilim-Kopya\DeneyBilim - Kopya\DeneyBilim\obj\Debug\DeneyBilim.pdb

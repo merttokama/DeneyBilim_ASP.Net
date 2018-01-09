@@ -1,0 +1,382 @@
+﻿body { background-color: #fff;
+       font-family:'Times New Roman', Times, serif;
+
+       
+}
+
+
+* {
+
+    margin:0;
+    bottom:0;
+    border:0;
+
+}
+a{
+    text-decoration:none;
+    color:#555;
+
+
+}
+a:hover{
+    text-decoration:none;
+    color:#00ff21;
+    
+}
+#ekran{
+    width:1366px;
+    height:1100px;
+    margin:0 auto;
+
+}
+
+header{
+    
+    width: 1366px;
+    height: auto;
+    float: left;
+    background-color:#fff;
+    border-bottom: 1px solid #555;
+}
+header .logo{
+    float:left;
+    width:99px;
+    border-right:1px solid #00ff21;
+    height:27px;
+    margin-left:80px;
+    margin-top:5px;
+    text-align:center;
+    line-height:45px;
+    color:#00ff21;
+
+            
+
+}
+
+    header nav {
+        float: left;
+        width: 510px;
+        height: 60px;
+        line-height: 45px;
+        margin-left:90px;
+        margin-top:10px;
+        
+    }
+
+        header nav ul {
+
+            list-style: none;
+        }
+    header nav ul li{
+        float: left;
+        margin: 0 15px;
+        color: #ffffff;
+    }
+     header nav ul li.deneyler-wrap{
+        position: relative;
+        background-color: #ffffff;
+    }
+      header nav ul li.deneyler-wrap .deneyler{
+        display:none;
+        position: absolute;
+        width: 300px;
+        height: 0px;
+        background:fixed;
+        background-color:blue;
+        
+
+    }
+       header nav ul li.deneyler-wrap .deneyler .sosyal{
+        float:left;
+        background-color:white;
+        background-position:top;
+        
+    }
+        header nav ul li.deneyler-wrap .deneyler .evyapimi{
+       float:left;
+        background-color:white;
+        background-position:top;
+    }
+         header nav ul li.deneyler-wrap .deneyler .fen{
+       float:left;
+        background-color:white;
+        background-position:top;
+    }
+          header nav ul li.deneyler-wrap .deneyler .eglenceli{
+       float:left;
+        background-color:white;
+        background-position:top;
+    }
+           header nav ul li.deneyler-wrap .deneyler .egitsel{
+       float:left;
+        background-color:white;
+        background-position:top;
+    }
+            header nav ul li.deneyler-wrap .deneyler .psikoloji{
+       float:left;
+        background-color:white;
+        background-position:top;
+    }
+
+     
+      header .btnkayit{
+          
+        float:left;
+        width:120px;
+        height:30px;
+        border: 1px solid #00ff21;
+        color:black;
+        text-align:center;
+        
+        margin-top:18px; 
+        margin-left:15px;   
+        background-color:white;
+        
+    }
+
+      header .btnkayit:hover{
+          
+        float:left;
+        width:120px;
+        height:30px;
+        border-left: 1px solid #00ff21;
+        color:#fff;
+        text-align:center;
+        color:white;
+        margin-top:18px; 
+        margin-left:15px;   
+        background-color:#00ff21;
+        
+    }
+
+
+
+      
+      
+      header .btngiris{
+           
+        float:left;
+        width:120px;
+        height:30px;
+        border: 1px solid #00ff21;
+        color:black;
+        text-align:center;
+        color:#000000;
+        margin-top:18px;      
+        margin-left:15px;
+        background-color:white;
+    
+      }
+          header .btngiris:hover{
+           
+        float:left;
+        width:120px;
+        height:30px;
+       border-left: 1px solid #00ff21;
+        color:#fff;
+        text-align:center;
+        color:white;
+        margin-top:18px; 
+        margin-left:15px;   
+        background-color:#00ff21;
+    
+      }
+
+    header .arama-wrap{
+
+        float: left;
+        width: 300px;
+        height: 45px;
+        margin-top:13px;
+        margin-left:15px;
+    }
+
+    header .arama-wrap .txtarama{
+        float: left;
+        height: 25px;
+        width: 120px;
+        padding:10px;
+        margin-left:15px;
+        border-left:1px solid #00ff21;
+
+       
+    }
+    header .arama-wrap .btnarama{
+        float: left;
+        width:45px;
+        height:45px;
+        border:1px solid #00ff21;
+        background-color:white;
+        color:black;
+    }
+    header .arama-wrap .btnarama:hover{
+        float: left;
+        width:45px;
+        height:45px;
+        
+        background-color:#00ff21;
+        color:white;
+    }
+
+    
+    
+
+    .sol-taraf{
+        float:left;
+        width:600px;
+        height:1007px;
+        margin-left:160px;
+        background-color:#fff;
+        margin-top:45px;
+
+    }
+    .sol-taraf .icerik-deneyler{
+        float:left;
+        width:600px;
+        height:auto;
+        background-color:#fff;
+        
+    }
+    .sol-taraf .icerik-deneyler .ust{
+        float:left;
+        width: 500px;
+        height:1014px;
+        line-height:44px;
+        padding-left:15px;
+        color:#555;
+        border-bottom: 1px solid #ccc;
+        background-color:#fff;
+
+        
+    }
+    .sol-taraf .icerik-deneyler .rastgeleicerik1{
+        float:left;
+        width:150px;
+        height:100px;
+        background-color:red;
+       
+        margin-right:20px;
+        margin-bottom:20px;
+
+    }
+      
+    .sol-taraf .icerik-deneyler .rastgeleicerik2{
+        float:left;
+        width:150px;
+        height:100px;
+        background-color:red;
+        margin-bottom:20px;
+        margin-right:20px;
+        
+    }
+    .sol-taraf .icerik-deneyler .rastgeleicerik3{
+        float:left;
+        width:150px;
+        height:100px;
+        margin-bottom:20px;
+        background-color:red;
+        
+    }
+    .sol-taraf .icerik-deneyler .alt{
+        float:left;
+        width:235px;
+        height:auto;
+        background-color:#fff;
+          border-bottom: 1px solid #ccc;
+           padding:17.5px;
+        
+        
+    }
+ 
+     
+     
+
+    .sag-taraf{
+        float:right;
+        width:380px;
+        height:auto;
+        background-color:#fff;
+        margin-top:45px;
+        margin-right:160px;
+
+    }
+
+    .sag-taraf .haberler{
+        float:right;
+        width:340px;
+        height:400px;
+        background-color:#fff;
+        margin-top:45px;
+        
+
+    } 
+    .sag-taraf .haberler .haber1{
+       float:left;
+        background-color:red;
+        border-right: 1px solid #00ff21;
+        margin-top:20px;
+
+    } 
+    .sag-taraf .haberler .haber2{
+       float:left;
+        width:250px;
+        height:100px;
+        background-color:red;
+        border-right: 1px solid #00ff21;
+        margin-top:20px;
+
+    } 
+    .sag-taraf .haberler .haber3{
+       float:left;
+       margin-top:20px;
+        width:250px;
+        height:100px;
+        background-color:red;
+        border-right: 1px solid #00ff21;
+        
+
+    } 
+
+    footer{
+        float:left;
+        height:60px;
+        width:100%;
+        margin-top:45px;
+        background-color:#fff;
+        line-height:60px;
+        text-align:center;
+        color:#808080;
+    }
+    .kayitmenu{
+
+        float:left;
+        height:auto;
+        width:800px;
+        
+        background-color:#73ff7e;
+        line-height:40px;
+        text-align:left;
+        
+        
+    }
+    
+    table{
+
+        float:left;
+        table-layout:auto;
+
+
+
+    }
+
+    .iletisimalan{
+        
+        width:600px;
+        height:auto;
+    }
+   .iletisimalan .iletisimbuton{
+       
+        width:50px;
+        height:50px;
+        margin-bottom:20px;
+    }
